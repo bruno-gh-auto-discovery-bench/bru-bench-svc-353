@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "payments-api-7",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
